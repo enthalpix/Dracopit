@@ -1,0 +1,1788 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 03/09/2015 17:03:21
+
+BeginCmp
+TimeStamp = /55E6B12D;
+Reference = P1;
+ValeurCmp = 1.8MHz osc;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6D164;
+Reference = P2;
+ValeurCmp = SW_DIP9;
+IdModule  = Sockets_DIP:DIP-18__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F1F3BF;
+Reference = P3;
+ValeurCmp = CONN_01X04;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F75F93;
+Reference = P4;
+ValeurCmp = CONN_02X32;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x32;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F7E304;
+Reference = P5;
+ValeurCmp = CONN_02X20;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /5604B52A;
+Reference = P6;
+ValeurCmp = CONN_01X03;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /56070268;
+Reference = P7;
+ValeurCmp = CONN_02X05;
+IdModule  = Socket_Strips:Socket_Strip_Straight_2x05;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6E08A;
+Reference = R1;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6D050;
+Reference = R2;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5081E;
+Reference = R24;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F50824;
+Reference = R25;
+ValeurCmp = 100k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6AF6A;
+Reference = U1;
+ValeurCmp = 7402;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E906DB;
+Reference = U2;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90625;
+Reference = U3;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E71CF3;
+Reference = U4;
+ValeurCmp = 74LS541;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9056F;
+Reference = U5;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E904B9;
+Reference = U6;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6AD19;
+Reference = U7;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90715;
+Reference = U8;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9065F;
+Reference = U9;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E905A9;
+Reference = U10;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E904F3;
+Reference = U11;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9070F;
+Reference = U12;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90659;
+Reference = U13;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E905A3;
+Reference = U14;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E904ED;
+Reference = U15;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E70098;
+Reference = U16;
+ValeurCmp = 74LS541;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6FE85;
+Reference = U17;
+ValeurCmp = 74LS541;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6ABE5;
+Reference = U18;
+ValeurCmp = SST39SF020;
+IdModule  = Sockets_DIP:DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6ACC5;
+Reference = U19;
+ValeurCmp = SST39SF020;
+IdModule  = Sockets_DIP:DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6C800;
+Reference = U20;
+ValeurCmp = 74LS30;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6C84F;
+Reference = U21;
+ValeurCmp = 74LS30;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9055F;
+Reference = U22;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9073B;
+Reference = U23;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90685;
+Reference = U24;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9074D;
+Reference = U25;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90697;
+Reference = U26;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E905CF;
+Reference = U27;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90519;
+Reference = U28;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E905E1;
+Reference = U29;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9052B;
+Reference = U30;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E6AD89;
+Reference = U31;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E906D5;
+Reference = U32;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9061F;
+Reference = U33;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E90569;
+Reference = U34;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E904B3;
+Reference = U35;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E7336B;
+Reference = U36;
+ValeurCmp = 74LS238;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E734E5;
+Reference = U37;
+ValeurCmp = 74LS238;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55ECA8FC;
+Reference = U38;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55ECA932;
+Reference = U39;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FABB;
+Reference = U40;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FA05;
+Reference = U41;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F0C7;
+Reference = U42;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E72F86;
+Reference = U43;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E89E1A;
+Reference = U44;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D0B;
+Reference = U45;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC9CCA;
+Reference = U46;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FAF5;
+Reference = U47;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FA3F;
+Reference = U48;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F101;
+Reference = U49;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E7AEAA;
+Reference = U50;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FAEF;
+Reference = U51;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FA39;
+Reference = U52;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F0FB;
+Reference = U53;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E7A4D5;
+Reference = U54;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E87E66;
+Reference = U55;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FB1B;
+Reference = U56;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FA65;
+Reference = U57;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FB2D;
+Reference = U58;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FA77;
+Reference = U59;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F127;
+Reference = U60;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E83F42;
+Reference = U61;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E2D2;
+Reference = U62;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F139;
+Reference = U63;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D46;
+Reference = U64;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8477D;
+Reference = U65;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8FAB5;
+Reference = U66;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F9FF;
+Reference = U67;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E8F0C1;
+Reference = U68;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E72DD1;
+Reference = U69;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D40;
+Reference = U70;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E2FC;
+Reference = U71;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9270B;
+Reference = U72;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92655;
+Reference = U73;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9259F;
+Reference = U74;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E924E9;
+Reference = U75;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92745;
+Reference = U76;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9268F;
+Reference = U77;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E925D9;
+Reference = U78;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92523;
+Reference = U79;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9273F;
+Reference = U80;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92689;
+Reference = U81;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E925D3;
+Reference = U82;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9251D;
+Reference = U83;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9258F;
+Reference = U84;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9276B;
+Reference = U85;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E926B5;
+Reference = U86;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9277D;
+Reference = U87;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E926C7;
+Reference = U88;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E925FF;
+Reference = U89;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92549;
+Reference = U90;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92611;
+Reference = U91;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9255B;
+Reference = U92;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92705;
+Reference = U93;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9264F;
+Reference = U94;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E92599;
+Reference = U95;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E924E3;
+Reference = U96;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9373D;
+Reference = U97;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93687;
+Reference = U98;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E935D1;
+Reference = U99;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9351B;
+Reference = U100;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93777;
+Reference = U101;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E936C1;
+Reference = U102;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9360B;
+Reference = U103;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93555;
+Reference = U104;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93771;
+Reference = U105;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E936BB;
+Reference = U106;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93605;
+Reference = U107;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9354F;
+Reference = U108;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E935C1;
+Reference = U109;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9379D;
+Reference = U110;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E936E7;
+Reference = U111;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E937AF;
+Reference = U112;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E936F9;
+Reference = U113;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93631;
+Reference = U114;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9357B;
+Reference = U115;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93643;
+Reference = U116;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9358D;
+Reference = U117;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93737;
+Reference = U118;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93681;
+Reference = U119;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E935CB;
+Reference = U120;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E93515;
+Reference = U121;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F57B73;
+Reference = U122;
+ValeurCmp = 74LS32;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F3EB1F;
+Reference = U123;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F20FA9;
+Reference = U124;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F20FF5;
+Reference = U125;
+ValeurCmp = 74LS541;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F211EC;
+Reference = U126;
+ValeurCmp = 74LS541;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F211E6;
+Reference = U127;
+ValeurCmp = SST39SF020;
+IdModule  = Sockets_DIP:DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F20FA3;
+Reference = U128;
+ValeurCmp = SST39SF020;
+IdModule  = Sockets_DIP:DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F211E0;
+Reference = U129;
+ValeurCmp = 74LS30;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F20FCE;
+Reference = U130;
+ValeurCmp = 74LS30;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F20FAF;
+Reference = U131;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F79EAC;
+Reference = U132;
+ValeurCmp = SST39SF020;
+IdModule  = Sockets_DIP:DIP-32__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F817B4;
+Reference = U133;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F9496A;
+Reference = U134;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E2F6;
+Reference = U135;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D5D;
+Reference = U136;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D2D;
+Reference = U137;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /5600E25B;
+Reference = U138;
+ValeurCmp = 74LS08;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E2E4;
+Reference = U139;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D33;
+Reference = U140;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E2EA;
+Reference = U141;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FFE55D;
+Reference = U142;
+ValeurCmp = 74LS238;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FF6D9E;
+Reference = U143;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9E336;
+Reference = U144;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55FFE563;
+Reference = U145;
+ValeurCmp = 74LS238;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA08;
+Reference = U146;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EAF5;
+Reference = U147;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE4F5;
+Reference = U148;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA32;
+Reference = U149;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA2C;
+Reference = U150;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EB1F;
+Reference = U151;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EB19;
+Reference = U152;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE51F;
+Reference = U153;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE519;
+Reference = U154;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FD1E;
+Reference = U155;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA1A;
+Reference = U156;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EB07;
+Reference = U157;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA20;
+Reference = U158;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EB0D;
+Reference = U159;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE507;
+Reference = U160;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EA6C;
+Reference = U161;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE50D;
+Reference = U162;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9EB59;
+Reference = U163;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EAE559;
+Reference = U164;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FCE0;
+Reference = U165;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FDCD;
+Reference = U166;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1EA2;
+Reference = U167;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD03B;
+Reference = U168;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FD0A;
+Reference = U169;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5003C;
+Reference = U170;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FD04;
+Reference = U171;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FDF7;
+Reference = U172;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FDF1;
+Reference = U173;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1ECC;
+Reference = U174;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1EC6;
+Reference = U175;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCF4E;
+Reference = U176;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD065;
+Reference = U177;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD05F;
+Reference = U178;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5004F;
+Reference = U179;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA26B2;
+Reference = U180;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F64816;
+Reference = U181;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FCF2;
+Reference = U182;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FDDF;
+Reference = U183;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1EB4;
+Reference = U184;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FCF8;
+Reference = U185;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCF78;
+Reference = U186;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCF72;
+Reference = U187;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FDE5;
+Reference = U188;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5005C;
+Reference = U189;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1EBA;
+Reference = U190;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F65E73;
+Reference = U191;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD04D;
+Reference = U192;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FD44;
+Reference = U193;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E9FE31;
+Reference = U194;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1F06;
+Reference = U195;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD053;
+Reference = U196;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5006F;
+Reference = U197;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCF60;
+Reference = U198;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F65E96;
+Reference = U199;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD09F;
+Reference = U200;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCF66;
+Reference = U201;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F4FFFC;
+Reference = U202;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBCFB2;
+Reference = U203;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F6A177;
+Reference = U204;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2674;
+Reference = U205;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1F8F;
+Reference = U206;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2761;
+Reference = U207;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F5000F;
+Reference = U208;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD215;
+Reference = U209;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F6A19A;
+Reference = U210;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD128;
+Reference = U211;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA269E;
+Reference = U212;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1FB9;
+Reference = U213;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2698;
+Reference = U214;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1FB3;
+Reference = U215;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA278B;
+Reference = U216;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2785;
+Reference = U217;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F50022;
+Reference = U218;
+ValeurCmp = 74HC74;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA279F;
+Reference = U219;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD23F;
+Reference = U220;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD239;
+Reference = U221;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD152;
+Reference = U222;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC2613;
+Reference = U223;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC261F;
+Reference = U224;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD14C;
+Reference = U225;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2686;
+Reference = U226;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1FA1;
+Reference = U227;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2773;
+Reference = U228;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA268C;
+Reference = U229;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1FA7;
+Reference = U230;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA2779;
+Reference = U231;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD227;
+Reference = U232;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC25FB;
+Reference = U233;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA26D8;
+Reference = U234;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EB1FF3;
+Reference = U235;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD22D;
+Reference = U236;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EA27C5;
+Reference = U237;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD13A;
+Reference = U238;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC265F;
+Reference = U239;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC260D;
+Reference = U240;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EC2625;
+Reference = U241;
+ValeurCmp = 4040;
+IdModule  = Sockets_DIP:DIP-16__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD140;
+Reference = U242;
+ValeurCmp = 74LS688;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD279;
+Reference = U243;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55EBD18C;
+Reference = U244;
+ValeurCmp = 74LS373;
+IdModule  = Sockets_DIP:DIP-20__300;
+EndCmp
+
+EndListe
