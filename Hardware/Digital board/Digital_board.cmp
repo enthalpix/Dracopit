@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 04/09/2015 09:03:32
+Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 04/09/2015 09:35:32
 
 BeginCmp
 TimeStamp = /5612CE75;
@@ -2192,10 +2192,10 @@ IdModule  = Resistors_SMD:R_0805_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /55E6AF6A;
+TimeStamp = /55EA825F;
 Reference = U1;
-ValeurCmp = 7402;
-IdModule  = Sockets_DIP:DIP-8__300;
+ValeurCmp = 74HCT02;
+IdModule  = Sockets_DIP:DIP-14__300;
 EndCmp
 
 BeginCmp
@@ -3042,7 +3042,7 @@ BeginCmp
 TimeStamp = /55F57B73;
 Reference = U122;
 ValeurCmp = 74LS32;
-IdModule  = Sockets_DIP:DIP-8__300;
+IdModule  = Sockets_DIP:DIP-14__300;
 EndCmp
 
 BeginCmp
