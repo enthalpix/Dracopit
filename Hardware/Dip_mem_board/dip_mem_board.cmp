@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 11/09/2015 14:15:59
+
+BeginCmp
+TimeStamp = /55F2BA43;
+Reference = C1;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2BAB2;
+Reference = C2;
+ValeurCmp = 1µ;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F32045;
+Reference = P1;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F32285;
+Reference = P2;
+ValeurCmp = CONN_01X20;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2E3B5;
+Reference = U1;
+ValeurCmp = SN74LVC4245A;
+IdModule  = Housings_SSOP:SSOP-24_3.9x8.7mm_Pitch0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2B1A7;
+Reference = U2;
+ValeurCmp = SN74LVC4245A;
+IdModule  = Housings_SSOP:SSOP-24_3.9x8.7mm_Pitch0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2B6EB;
+Reference = U3;
+ValeurCmp = 39VF1681-70EKE;
+IdModule  = TSOP48:TSOP-48;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2C4EB;
+Reference = U4;
+ValeurCmp = SN74LVC4245A;
+IdModule  = Housings_SSOP:SSOP-24_3.9x8.7mm_Pitch0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2B1F9;
+Reference = U5;
+ValeurCmp = TLV70033DDC;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55F2C5C5;
+Reference = U6;
+ValeurCmp = SN74LVC4245A;
+IdModule  = Housings_SSOP:SSOP-24_3.9x8.7mm_Pitch0.635mm;
+EndCmp
+
+EndListe

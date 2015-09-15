@@ -1,10 +1,6 @@
-update=15/09/2015 11:32:24
+update=11/09/2015 11:20:30
 version=1
 last_client=kicad
-[general]
-version=1
-RootSch=
-BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -27,9 +23,11 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
-LibDir=../Lib
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,4 +59,5 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
-LibName31=dip-mem_2mx8b
+LibName31=C:/Users/pedupouy/Documents/perso/bopit/Dracopit/Hardware/Lib/sn74lvc4245a
+LibName32=C:/Users/pedupouy/Documents/perso/bopit/Dracopit/Hardware/Lib/39vf1681-70eke
