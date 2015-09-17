@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 16/09/2015 12:13:06
+Cmp-Mod V01 Created by Cvpcb (2015-04-22 BZR 5620)-product   date = 17/09/2015 15:25:19
 
 BeginCmp
 TimeStamp = /560EA451;
@@ -211,132 +211,6 @@ IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
 BeginCmp
-TimeStamp = /560ED21D;
-Reference = C31;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A2F1B;
-Reference = C32;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C7F;
-Reference = C33;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560ED223;
-Reference = C34;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A3019;
-Reference = C35;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C85;
-Reference = C36;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560ED229;
-Reference = C37;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A3119;
-Reference = C38;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C8B;
-Reference = C39;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560ED22F;
-Reference = C40;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A321B;
-Reference = C41;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C91;
-Reference = C42;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560ED235;
-Reference = C43;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A331F;
-Reference = C44;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C97;
-Reference = C45;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560ED23B;
-Reference = C46;
-ValeurCmp = 1µ;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A3425;
-Reference = C47;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
-TimeStamp = /560A5C9D;
-Reference = C48;
-ValeurCmp = 10n;
-IdModule  = Capacitors_SMD:C_0805_HandSoldering;
-EndCmp
-
-BeginCmp
 TimeStamp = /5610A019;
 Reference = C49;
 ValeurCmp = 47µ;
@@ -395,7 +269,7 @@ EndCmp
 BeginCmp
 TimeStamp = /5607D718;
 Reference = C57;
-ValeurCmp = 200p;
+ValeurCmp = 100p;
 IdModule  = Capacitors_SMD:C_0805_HandSoldering;
 EndCmp
 
@@ -950,13 +824,6 @@ TimeStamp = /55FAF668;
 Reference = U29;
 ValeurCmp = 74LS373;
 IdModule  = Sockets_DIP:DIP-20__300;
-EndCmp
-
-BeginCmp
-TimeStamp = /560D7BCF;
-Reference = U30;
-ValeurCmp = 74LS21;
-IdModule  = Sockets_DIP:DIP-14__300;
 EndCmp
 
 BeginCmp
